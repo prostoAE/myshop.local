@@ -1,6 +1,9 @@
 <?php
 
-function testAction () {
+/**
+ * Контроллер главной страниці
+ */
+function testAction() {
     echo 'IndexController.php > testAction';
 }
 
